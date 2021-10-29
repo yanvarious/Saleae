@@ -1,0 +1,13 @@
+{
+  "name": "I2C 8-bit Address With Terminal Display",
+  "apiVersion": "1.0.0",
+  "author": "yanva",
+  "version": "0.0.1",
+  "description": "Converts I2C 7-Bit Addresses as 8 bit with R/W bit",
+  "extensions": {
+    "I2C 8-bit Address With Terminal Display": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
